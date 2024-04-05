@@ -1,5 +1,9 @@
 Changelog
 =========
+2.9.7 (2024-04-05)
+------------------
+
+* Change use ugettext_lazy to gettext_lazy
 
 2.9.6 (2017-01-23)
 ------------------

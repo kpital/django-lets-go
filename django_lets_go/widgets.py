@@ -19,7 +19,7 @@ from django.db import models
 from django.http import HttpResponse, HttpResponseNotFound,\
     HttpResponseRedirect
 from django.contrib.admin.widgets import RelatedFieldWidgetWrapper
-from django.utils.translation import ugettext_lazy as _
+from django.utils.translation import gettext_lazy as _
 from django.utils.encoding import force_unicode
 from django.utils.html import escape
 from django.utils.datastructures import MultiValueDict, MergeDict
